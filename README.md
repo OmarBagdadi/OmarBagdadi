@@ -14,21 +14,26 @@
 
 🤝 I’m eager to collaborate on projects that explore emerging technologies and create innovative applications with real-world impact.
 
-⚡ Passionate about Anime. Feel free to reach out, we can chat about our shared interests! 
+⚡ Passionate about Software Development. Feel free to reach out, we can chat about our shared interests! 
 
 
 <!-- Connect Section -->
-
-<h1 align="center">🌐Socials</h1>
+<h1 align="center">🌐 Socials - Connect with me 😊</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-bagdadi-a43b98252/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/omar-bagdadi-a43b98252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <!-- Portfolio Website -->
+  <a href="https://omar-bagdadi-portfolio.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%231DA1F2.svg?&style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+
 </p>
 
 <!-- Tech Stack -->
 
-<h1 align="center">🛠 Tech Stack:</h1>
+<h1 align="center">🛠 Tech Stack</h1>
 <details>
   <!-- Languages -->
   <summary><strong>💻 Languages</strong></summary>
